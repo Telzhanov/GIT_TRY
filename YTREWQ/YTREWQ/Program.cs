@@ -11,6 +11,8 @@ namespace YTREWQ
         static void Main(string[] args)
         {
             Console.WriteLine("wertyu");
+            sfsdf
+            sdf
         }
     }
 }
